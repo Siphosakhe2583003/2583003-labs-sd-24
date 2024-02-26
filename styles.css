@@ -42,7 +42,7 @@ nav li{
 .second{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap:
+    flex-wrap: wrap;
 }
 .second section{
     text-align: center;
