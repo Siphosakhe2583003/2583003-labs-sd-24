@@ -28,6 +28,7 @@ nav ul{
     justify-content: space-evenly;
     gap: 20px;
     list-style-type: none;
+    flex-wrap: wrap;
 }
 nav li{
     font-weight: bold;
@@ -41,6 +42,7 @@ nav li{
 .second{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap:
 }
 .second section{
     text-align: center;
